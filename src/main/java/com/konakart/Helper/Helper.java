@@ -7,10 +7,12 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
- * Helper class
+ * Helper class:Method to manage all type of locators.
  * 
  * @author indira.saravanan
  *
@@ -21,6 +23,7 @@ public class Helper extends TestBase {
 	static WebElement element;
 	static Actions action = new Actions(driver);
 	static JavascriptExecutor js = (JavascriptExecutor) driver;
+	static WebDriverWait wait = new WebDriverWait(driver, Constants.EXPLICIT_WAIT);
 
 	// This will find element by locator type
 	public static WebElement matchLocator(String locatorType) {
@@ -46,7 +49,7 @@ public class Helper extends TestBase {
 		case "tagName":
 			element = driver.findElement(By.tagName(locator[1]));
 			break;
-		case "cssSelector":
+		case "css":
 			element = driver.findElement(By.cssSelector(locator[1]));
 			break;
 		case "xpath":
@@ -58,17 +61,18 @@ public class Helper extends TestBase {
 	}
 
 	// This will click
-	public static void click(String webElement) {
+	public void click(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			element.click();
 		} catch (Exception e) {
 			log.logReport("Element not clicked");
-		}
+		}			
+
 	}
 
 	// This will get text
-	public static String getText(String webElement) {
+	public String getText(String webElement) {
 		try {
 			element = matchLocator(webElement);
 		} catch (Exception e) {
@@ -78,7 +82,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will send value.
-	public static void sendKeys(String webElement, String value) {
+	public void sendKeys(String webElement, String value) {
 		try {
 			element = matchLocator(webElement);
 			element.sendKeys(value);
@@ -88,7 +92,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will mouse over to web element
-	public static void mouseOver(String webElement) {
+	public void mouseOver(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			action.moveToElement(element);
@@ -96,9 +100,9 @@ public class Helper extends TestBase {
 			log.logReport("Element Not Found");
 		}
 	}
-	
+
 	// This will check specified element present or not
-	public static void isDisplayed(String webElement) {
+	public void isDisplayed(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			element.isDisplayed();
@@ -107,9 +111,9 @@ public class Helper extends TestBase {
 			log.logReport("Element Not Dispalyed");
 		}
 	}
-	
+
 	// This will check check box is checked or not
-	public static void isSelected(String webElement) {
+	public void isSelected(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			element.isSelected();
@@ -118,9 +122,9 @@ public class Helper extends TestBase {
 			log.logReport("Element Not Selected");
 		}
 	}
-	
+
 	// This will check specified element is enable or not
-	public static void isEnabled(String webElement) {
+	public void isEnabled(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			element.isEnabled();
@@ -129,9 +133,10 @@ public class Helper extends TestBase {
 			log.logReport("Element Not Enabled");
 		}
 	}
+
 	// javascriptexecutor
 	// This will scroll down the page by pixel vertical
-	public static void scrollDown(String webElement, String pixel) {
+	public void scrollDown(String webElement, String pixel) {
 		try {
 			element = matchLocator(webElement);
 			js.executeScript("window.scrollBy(0,pixel)");
@@ -141,7 +146,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will scroll up the page by pixel vertical
-	public static void scrollUp(String webElement, String pixel) {
+	public void scrollUp(String webElement, String pixel) {
 		try {
 			element = matchLocator(webElement);
 			js.executeScript("window.scrollBy(0,-pixel)");
@@ -151,7 +156,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will scroll left the page by pixel vertical
-	public static void scrollLeft(String WebElement, String pixel) {
+	public void scrollLeft(String WebElement, String pixel) {
 		try {
 			js.executeScript("window.scrollBy(pixel,0)");
 		} catch (Exception e) {
@@ -160,7 +165,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will scroll right the page by pixel vertical
-	public static void scrollRight(String webElement, String pixel) {
+	public void scrollRight(String webElement, String pixel) {
 		try {
 			js.executeScript("window.scrollBy(-pixel,0)");
 		} catch (Exception e) {
@@ -169,22 +174,52 @@ public class Helper extends TestBase {
 	}
 
 	// This will scroll the specified element into visible area
-	public static void scrollIntoView(String webElement) {
+	public void scrollIntoView(String webElement) {
 		try {
 			element = matchLocator(webElement);
-			js.executeScript("arguments[0].scrollIntoView()");
+			js.executeScript("arguments[0].scrollIntoView()", element);
 		} catch (Exception e) {
 			log.logReport("Element Not Found");
 		}
 	}
 
 	// This will wait certain amount time
-	public static void implicitWait() {
+	public void implicitWait() {
 		driver.manage().timeouts().implicitlyWait(Constants.IMPLICIT_WAIT, TimeUnit.SECONDS);
 	}
 
+	// This will wait certain amount of time until element is click
+	public void explicitWaitToClick(String webElement) {
+		try {
+			element = matchLocator(webElement);
+			wait.until(ExpectedConditions.elementToBeClickable(element));
+		} catch (Exception e) {
+			log.logReport("Element Not Found");
+		}
+	}
+
+	// This will wait certain amount of time until element is select
+	public void explicitWaitToSelect(String webElement) {
+		try {
+			element = matchLocator(webElement);
+			wait.until(ExpectedConditions.elementToBeSelected(element));
+		} catch (Exception e) {
+			log.logReport("Element Not Found");
+		}
+	}
+
+	// This will wait certain amount of time until element is visible
+	public void explicitWaitToVisible(String webElement) {
+		try {
+			element = matchLocator(webElement);
+			wait.until(ExpectedConditions.visibilityOf(element));
+		} catch (Exception e) {
+			log.logReport("Element Not Found");
+		}
+	}
+
 	// This will click specified element in pop-up menu.
-	public static void contextClick(String webElement) {
+	public void contextClick(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			action.contextClick(element).perform();
@@ -194,7 +229,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will right click the element
-	public static void doubleClick(String webElement) {
+	public void doubleClick(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			action.doubleClick(element).perform();
@@ -204,7 +239,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will press enter key
-	public static void pressEnter(String webElement) {
+	public void pressEnter(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			element.sendKeys(Keys.ENTER);
@@ -215,7 +250,7 @@ public class Helper extends TestBase {
 	}
 
 	// This will press Tab key
-	public static void pressTab(String webElement) {
+	public void pressTab(String webElement) {
 		try {
 			element = matchLocator(webElement);
 			element.sendKeys(Keys.TAB);
@@ -226,39 +261,38 @@ public class Helper extends TestBase {
 	}
 
 	// This will select element by index
-	public static void selectByIndex(String webElement,int index) {
+	public void selectByIndex(String webElement, int index) {
 		try {
 			element = matchLocator(webElement);
 			Select select = new Select(element);
 			select.selectByIndex(index);
-			log.logReport(index+" is Clicked");
+			log.logReport(index + " is Clicked");
 		} catch (Exception e) {
 			log.logReport("Element Not Found");
-		}		
+		}
 	}
-	
+
 	// This will select element by value
-	public static void selectByValue(String webElement,String value) {
+	public void selectByValue(String webElement, String value) {
 		try {
 			element = matchLocator(webElement);
 			Select select = new Select(element);
 			select.selectByValue(value);
-			log.logReport(value+" is Clicked");
+			log.logReport(value + " is Clicked");
 		} catch (Exception e) {
 			log.logReport("Element Not Found");
-		}		
+		}
 	}
-	
+
 	// This will select element by visible text
-	public static void selectByVisibleText(String webElement,String visibleText) {
+	public void selectByVisibleText(String webElement, String visibleText) {
 		try {
 			element = matchLocator(webElement);
 			Select select = new Select(element);
 			select.selectByVisibleText(visibleText);
-			log.logReport(visibleText+" is Clicked");
+			log.logReport(visibleText + " is Clicked");
 		} catch (Exception e) {
 			log.logReport("Element Not Found");
-		}		
+		}
 	}
 }
-

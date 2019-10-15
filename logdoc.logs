@@ -676,3 +676,576 @@
 2019-10-14 20:26:52 INFO  LogRecordFilter - Browser Closing
 2019-10-14 21:23:14 INFO  LogRecordFilter - Browser Not Opening
 2019-10-14 21:23:15 INFO  LogRecordFilter - Browser Not Closing
+2019-10-15 10:09:46 INFO  LogRecordFilter - Browser Not Opening
+2019-10-15 10:09:48 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:48 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:48 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:49 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:51 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:51 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:51 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:52 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:52 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:52 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:53 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:53 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:53 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:54 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:54 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:54 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:55 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:55 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:55 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:56 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:56 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:56 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:57 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:57 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:58 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:58 INFO  LogRecordFilter - Value not sended
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element not clicked
+2019-10-15 10:09:58 INFO  LogRecordFilter - Element Not Found
+2019-10-15 10:09:58 INFO  LogRecordFilter - Browser Closing
+2019-10-15 10:10:03 INFO  LogRecordFilter - Browser Opening
+2019-10-15 10:10:06 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 10:10:07 INFO  LogRecordFilter - Browser Closing
+2019-10-15 10:10:40 INFO  LogRecordFilter - Browser Opening
+2019-10-15 10:10:41 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 10:10:44 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:10:44 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 10:10:46 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:10:47 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 10:10:49 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:10:50 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 10:10:52 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:10:52 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 10:10:54 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:10:55 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 10:10:57 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:10:57 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 10:10:59 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:00 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 10:11:02 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:02 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 10:11:04 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:05 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 10:11:08 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:09 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 10:11:10 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:11 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 10:11:12 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:13 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 10:11:14 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:15 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 10:11:17 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:17 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 10:11:19 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 10:11:19 INFO  LogRecordFilter - Browser Closing
+2019-10-15 10:11:23 INFO  LogRecordFilter - Browser Opening
+2019-10-15 10:11:27 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 10:11:28 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:20:47 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:20:49 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:20:51 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:20:52 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:20:55 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:20:55 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:20:58 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:20:59 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:21:01 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:02 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:21:04 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:05 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:21:07 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:08 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 11:21:10 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:10 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:21:12 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:13 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:21:15 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:16 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:21:19 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:20 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:21:22 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:22 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:21:24 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:24 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:21:26 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:27 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 11:21:29 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:29 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:21:31 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:21:31 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:21:37 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:21:42 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 11:21:43 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:22:53 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:22:55 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:22:57 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:22:58 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:23:01 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:01 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:23:04 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:05 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:23:07 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:08 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:23:11 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:11 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:23:14 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:14 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 11:23:16 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:17 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:23:19 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:19 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:23:21 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:22 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:23:25 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:26 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:23:27 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:28 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:23:30 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:30 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 11:23:33 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:34 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 11:23:37 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:37 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 11:23:39 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 11:23:40 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:23:44 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:23:47 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 11:23:48 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:28:48 INFO  LogRecordFilter - Browser Not Opening
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:49 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:50 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:28:50 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:28:51 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:28:55 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:28:59 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 11:29:00 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:29:26 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:29:28 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 11:29:28 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:28 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:28 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:28 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:29 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:30 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:30 INFO  LogRecordFilter - Value not sended
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element not clicked
+2019-10-15 11:29:30 INFO  LogRecordFilter - Element Not Found
+2019-10-15 11:29:30 INFO  LogRecordFilter - Browser Closing
+2019-10-15 11:29:35 INFO  LogRecordFilter - Browser Opening
+2019-10-15 11:29:39 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 11:29:40 INFO  LogRecordFilter - Browser Closing
+2019-10-15 12:01:18 INFO  LogRecordFilter - Browser Opening
+2019-10-15 12:01:18 INFO  LogRecordFilter - Element Not Found
+2019-10-15 12:01:22 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 12:01:23 INFO  LogRecordFilter - Browser Closing
+2019-10-15 12:18:36 INFO  LogRecordFilter - Browser Opening
+2019-10-15 12:18:36 INFO  LogRecordFilter - Element Not Found
+2019-10-15 12:18:40 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 12:18:42 INFO  LogRecordFilter - Browser Closing
+2019-10-15 12:19:54 INFO  LogRecordFilter - Browser Opening
+2019-10-15 12:19:54 INFO  LogRecordFilter - Element Not Found
+2019-10-15 12:19:58 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 12:19:59 INFO  LogRecordFilter - Browser Closing
+2019-10-15 12:21:20 INFO  LogRecordFilter - Browser Opening
+2019-10-15 12:21:20 INFO  LogRecordFilter - Element Not Found
+2019-10-15 12:21:24 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 12:21:25 INFO  LogRecordFilter - Browser Closing
+2019-10-15 12:44:23 INFO  LogRecordFilter - Browser Opening
+2019-10-15 12:44:26 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 12:44:28 INFO  LogRecordFilter - Browser Closing
+2019-10-15 13:09:06 INFO  LogRecordFilter - Browser Opening
+2019-10-15 13:09:11 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 13:09:12 INFO  LogRecordFilter - Browser Closing
+2019-10-15 13:10:48 INFO  LogRecordFilter - Browser Opening
+2019-10-15 13:10:57 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 13:10:58 INFO  LogRecordFilter - Browser Closing
+2019-10-15 13:12:48 INFO  LogRecordFilter - Browser Opening
+2019-10-15 13:12:52 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 13:12:53 INFO  LogRecordFilter - Browser Closing
+2019-10-15 13:13:28 INFO  LogRecordFilter - Browser Opening
+2019-10-15 13:13:32 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 13:13:33 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:25:53 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:25:54 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:26:19 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:26:20 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:30:33 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:30:33 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:31:07 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:31:08 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:32:00 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:32:01 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:33:49 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:33:49 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:36:23 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:36:23 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:41:37 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:41:38 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:43:44 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:43:46 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:46:41 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:46:42 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:47:29 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:47:30 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 14:47:32 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:33 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 14:47:36 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:37 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 14:47:40 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:41 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 14:47:44 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:44 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 14:47:47 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:48 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 14:47:51 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:51 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 14:47:54 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:55 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 14:47:57 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:47:58 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 14:48:01 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:02 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 14:48:07 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:08 INFO  LogRecordFilter - Software is Clicked
+2019-10-15 14:48:10 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:11 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 14:48:14 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:14 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-15 14:48:18 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:18 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-15 14:48:21 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:22 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-15 14:48:24 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 14:48:25 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:48:45 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:48:47 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:52:02 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:52:03 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:57:45 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:57:46 INFO  LogRecordFilter - Browser Closing
+2019-10-15 14:59:36 INFO  LogRecordFilter - Browser Opening
+2019-10-15 14:59:38 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:04:45 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:04:47 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:11:18 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:11:19 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:17:02 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:17:04 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:20:16 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:20:18 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:21:48 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:21:49 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:23:05 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:23:06 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:34:07 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:34:11 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:34:12 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:34:34 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:34:38 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:34:40 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:37:15 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:37:20 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:37:20 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 15:37:21 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:40:43 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:40:48 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:40:48 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 15:40:50 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:48:21 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:48:29 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:48:30 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 15:48:30 INFO  LogRecordFilter - Description validated
+2019-10-15 15:48:31 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:54:35 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:54:40 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:54:40 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 15:54:41 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 15:54:41 INFO  LogRecordFilter - Description validated
+2019-10-15 15:54:42 INFO  LogRecordFilter - Browser Closing
+2019-10-15 15:59:43 INFO  LogRecordFilter - Browser Opening
+2019-10-15 15:59:50 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 15:59:50 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 15:59:52 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:04:05 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:04:10 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:04:10 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:04:12 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:05:06 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:05:11 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:05:11 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:05:11 INFO  LogRecordFilter - Description validated
+2019-10-15 16:05:13 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:05:48 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:05:53 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:05:54 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:05:55 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:11:19 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:11:24 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:11:24 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:11:24 INFO  LogRecordFilter - Description validated
+2019-10-15 16:11:25 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:15:38 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:15:46 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:15:47 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:15:47 INFO  LogRecordFilter - Description validated
+2019-10-15 16:15:48 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:20:47 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:20:52 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:20:53 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:20:53 INFO  LogRecordFilter - Description validated
+2019-10-15 16:20:54 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:56:05 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:56:10 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:56:11 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:56:11 INFO  LogRecordFilter - Description validated
+2019-10-15 16:56:12 INFO  LogRecordFilter - Browser Closing
+2019-10-15 16:59:36 INFO  LogRecordFilter - Browser Opening
+2019-10-15 16:59:41 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 16:59:42 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 16:59:42 INFO  LogRecordFilter - Description validated
+2019-10-15 16:59:43 INFO  LogRecordFilter - Browser Closing
+2019-10-15 17:01:11 INFO  LogRecordFilter - Browser Opening
+2019-10-15 17:01:17 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 17:01:17 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 17:01:17 INFO  LogRecordFilter - Description validated
+2019-10-15 17:01:19 INFO  LogRecordFilter - Browser Closing
+2019-10-15 17:03:40 INFO  LogRecordFilter - Browser Opening
+2019-10-15 17:03:45 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 17:03:45 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 17:03:45 INFO  LogRecordFilter - Description validated
+2019-10-15 17:03:47 INFO  LogRecordFilter - Browser Closing
+2019-10-15 17:04:45 INFO  LogRecordFilter - Browser Opening
+2019-10-15 17:04:50 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 17:04:50 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 17:04:50 INFO  LogRecordFilter - Description validated
+2019-10-15 17:04:52 INFO  LogRecordFilter - Browser Closing
+2019-10-15 17:05:43 INFO  LogRecordFilter - Browser Opening
+2019-10-15 17:05:48 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 17:05:49 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 17:05:49 INFO  LogRecordFilter - Description validated
+2019-10-15 17:05:51 INFO  LogRecordFilter - Browser Closing
+2019-10-15 18:29:48 INFO  LogRecordFilter - Browser Opening
+2019-10-15 18:41:55 INFO  LogRecordFilter - Browser Opening
+2019-10-15 18:45:34 INFO  LogRecordFilter - Browser Opening
+2019-10-15 18:52:34 INFO  LogRecordFilter - Browser Opening
+2019-10-15 18:52:35 INFO  LogRecordFilter - Element Not Found
+2019-10-15 19:31:43 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:31:45 INFO  LogRecordFilter - Element not clicked
+2019-10-15 19:31:45 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:31:45 INFO  LogRecordFilter - Element Not Found
+2019-10-15 19:31:46 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:33:24 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:33:29 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:33:30 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:33:30 INFO  LogRecordFilter - Description validated
+2019-10-15 19:33:32 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:33:32 INFO  LogRecordFilter - Specification validated
+2019-10-15 19:33:32 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:33:50 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:33:55 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:33:56 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:33:56 INFO  LogRecordFilter - Description validated
+2019-10-15 19:33:58 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:33:58 INFO  LogRecordFilter - Specification validated
+2019-10-15 19:33:58 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:39:00 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:39:05 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:39:06 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:39:06 INFO  LogRecordFilter - Description validated
+2019-10-15 19:39:08 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:39:27 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:39:31 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:39:32 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:39:32 INFO  LogRecordFilter - Description validated
+2019-10-15 19:39:34 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:39:47 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:39:51 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:39:52 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:39:52 INFO  LogRecordFilter - Description validated
+2019-10-15 19:39:53 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:39:53 INFO  LogRecordFilter - Specification validated
+2019-10-15 19:39:55 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:41:38 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:41:45 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:41:46 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 19:41:46 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:41:46 INFO  LogRecordFilter - Description validated
+2019-10-15 19:41:48 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:44:16 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:44:22 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:44:22 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 19:44:23 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:44:23 INFO  LogRecordFilter - Description validated
+2019-10-15 19:44:25 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:44:49 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:44:54 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:44:54 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 19:44:54 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:44:54 INFO  LogRecordFilter - Description validated
+2019-10-15 19:44:57 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:45:48 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:45:53 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:45:54 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 19:45:54 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:45:54 INFO  LogRecordFilter - Description validated
+2019-10-15 19:45:56 INFO  LogRecordFilter - Browser Closing
+2019-10-15 19:46:14 INFO  LogRecordFilter - Browser Opening
+2019-10-15 19:46:19 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 19:46:20 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 19:46:21 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 19:46:21 INFO  LogRecordFilter - Description validated
+2019-10-15 19:46:23 INFO  LogRecordFilter - Browser Closing
+2019-10-15 20:02:31 INFO  LogRecordFilter - Browser Opening
+2019-10-15 20:02:36 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 20:02:36 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 20:02:37 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 20:02:37 INFO  LogRecordFilter - Description validated
+2019-10-15 20:02:38 INFO  LogRecordFilter - Browser Closing
+2019-10-15 20:03:21 INFO  LogRecordFilter - Browser Opening
+2019-10-15 20:03:26 INFO  LogRecordFilter - Hero image is clicked
+2019-10-15 20:03:27 INFO  LogRecordFilter - Element Not Found,Unable to scroll
+2019-10-15 20:03:27 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-15 20:03:27 INFO  LogRecordFilter - Description validated
+2019-10-15 20:03:29 INFO  LogRecordFilter - Browser Closing

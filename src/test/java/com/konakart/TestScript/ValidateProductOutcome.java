@@ -44,11 +44,11 @@ public class ValidateProductOutcome extends TestBase {
 	// This will validate product outcome in positive case
 	@Test(dataProvider = "positiveValues", priority = 0)
 	public void validatePositiveOutcome(String categories, String product) throws Exception {
-		Helper.selectByVisibleText(ReadProperties.properties("loc_categories_ddn", Constants.PRODUCTOUTCOME_PATH),
+		helper.selectByVisibleText(ReadProperties.properties("loc_categories_ddn", Constants.PRODUCTOUTCOME_PATH),
 				categories);
-		Helper.sendKeys(ReadProperties.properties("loc_searchitem_txtbox", Constants.PRODUCTOUTCOME_PATH), product);
-		Helper.click(ReadProperties.properties("loc_search_btn", Constants.PRODUCTOUTCOME_PATH));
-		String productTitle = Helper
+		helper.sendKeys(ReadProperties.properties("loc_searchitem_txtbox", Constants.PRODUCTOUTCOME_PATH), product);
+		helper.click(ReadProperties.properties("loc_search_btn", Constants.PRODUCTOUTCOME_PATH));
+		String productTitle = helper
 				.getText(ReadProperties.properties("loc_producttitle_txt", Constants.PRODUCTOUTCOME_PATH));
 		Validation.validationAssertEquals(productTitle, product);
 	}
@@ -63,11 +63,11 @@ public class ValidateProductOutcome extends TestBase {
 	// This will validate product outcome in negative case
 	@Test(dataProvider = "negativeValues", priority = 1)
 	public void validateNegativeOutcome(String categories, String product) throws Exception {
-		Helper.selectByVisibleText(ReadProperties.properties("loc_categories_ddn", Constants.PRODUCTOUTCOME_PATH),
+		helper.selectByVisibleText(ReadProperties.properties("loc_categories_ddn", Constants.PRODUCTOUTCOME_PATH),
 				categories);
-		Helper.sendKeys(ReadProperties.properties("loc_searchitem_txtbox", Constants.PRODUCTOUTCOME_PATH), product);
-		Helper.click(ReadProperties.properties("loc_search_btn", Constants.PRODUCTOUTCOME_PATH));
-		String productTitle = Helper
+		helper.sendKeys(ReadProperties.properties("loc_searchitem_txtbox", Constants.PRODUCTOUTCOME_PATH), product);
+		helper.click(ReadProperties.properties("loc_search_btn", Constants.PRODUCTOUTCOME_PATH));
+		String productTitle = helper
 				.getText(ReadProperties.properties("loc_searchresultmessage_txt", Constants.PRODUCTOUTCOME_PATH));
 		Validation.validationAssertEquals(productTitle, "There are no available products.");
 	}

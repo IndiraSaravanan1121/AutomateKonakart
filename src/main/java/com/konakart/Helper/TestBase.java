@@ -16,12 +16,14 @@ public class TestBase {
 	
 	protected static LogReport log = new LogReport();
 	public static WebDriver driver;
+	 public Helper helper = new Helper();
+	 protected ValidationPage page=new ValidationPage();
 	
 	// To open the browser.
 	public void openBrowser() throws Exception {
-		String browser = System.getProperty("BROWSER");
+		String browser = System.getProperty("BROWSERR");
 		if (browser == null) {
-			browser = System.getenv("BROWSER");
+			browser = System.getenv("BROWSERR");
 			if (browser == null) {
 				browser = "ie";
 			}
