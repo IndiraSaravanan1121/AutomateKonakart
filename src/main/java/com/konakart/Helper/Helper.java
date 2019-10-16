@@ -3,13 +3,12 @@ package com.konakart.Helper;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.konakart.config.Constants;
 
 /**
  * Helper class:Method to manage all type of locators.
@@ -19,11 +18,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  */
 
 public class Helper extends TestBase {
-
-	static WebElement element;
-	static Actions action = new Actions(driver);
-	static JavascriptExecutor js = (JavascriptExecutor) driver;
-	static WebDriverWait wait = new WebDriverWait(driver, Constants.EXPLICIT_WAIT);
 
 	// This will find element by locator type
 	public static WebElement matchLocator(String locatorType) {
@@ -65,18 +59,24 @@ public class Helper extends TestBase {
 		try {
 			element = matchLocator(webElement);
 			element.click();
-		} catch (Exception e) {
-			log.logReport("Element not clicked");
-		}			
+			log.info(webElement + " is Clicked");
+			throw new MyException(element + " Not clicked");
+		} catch (MyException ex) {
+			log.error(ex.getMessage());
+		}
 
 	}
 
 	// This will get text
-	public String getText(String webElement) {
+	public String getText(String webElement) throws MyException {
 		try {
 			element = matchLocator(webElement);
-		} catch (Exception e) {
-			log.logReport("Element Not Found");
+			if(element.getText() != null) {
+				return element.getText();
+			}
+			throw new MyException("Not Found");
+ 		} catch (MyException ex) {
+ 			log.error(ex.getMessage());
 		}
 		return element.getText();
 	}
@@ -105,10 +105,11 @@ public class Helper extends TestBase {
 	public void isDisplayed(String webElement) {
 		try {
 			element = matchLocator(webElement);
-			element.isDisplayed();
-			log.logReport("Element Is Dispalyed");
-		} catch (Exception e) {
-			log.logReport("Element Not Dispalyed");
+			if (element.isDisplayed()) 
+				throw new MyException("Element not Displayed");
+		} catch (MyException ex) {
+			log.error(ex.getMessage());
+
 		}
 	}
 
@@ -285,14 +286,15 @@ public class Helper extends TestBase {
 	}
 
 	// This will select element by visible text
-	public void selectByVisibleText(String webElement, String visibleText) {
+	public void selectByVisibleText(String webElement, String visibleText) throws MyException {
 		try {
 			element = matchLocator(webElement);
 			Select select = new Select(element);
 			select.selectByVisibleText(visibleText);
 			log.logReport(visibleText + " is Clicked");
-		} catch (Exception e) {
-			log.logReport("Element Not Found");
+		} catch (MyException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 	}
 }

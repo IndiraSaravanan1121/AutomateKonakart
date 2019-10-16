@@ -15,9 +15,9 @@ public class Validation extends TestBase {
 	public static void validationAssertEquals(String actual, String expected) {
 		try {
 			Assert.assertEquals(actual, expected);
-			log.logReport("Expected and Actual value are Matched");
+			log.info("Expected and Actual value are Matched");
 		} catch (Exception e) {
-			log.logReport("Expected and Actual value are not Matched");
+			log.info("Expected and Actual value are not Matched");
 		}
 	}
 }

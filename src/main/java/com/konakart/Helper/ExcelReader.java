@@ -32,7 +32,7 @@ public class ExcelReader extends TestBase {
 			fileReader = new FileInputStream(path);// set test data excel file as testData_path in
 													// constants class
 		} catch (FileNotFoundException e) {
-			log.logReport("File Not Found");
+			log.info("File Not Found");
 		}
 		try {
 			book = WorkbookFactory.create(fileReader);

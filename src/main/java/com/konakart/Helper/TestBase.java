@@ -1,9 +1,15 @@
 package com.konakart.Helper;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.konakart.config.Constants;
 
 /**
  * This will open and close the browser.
@@ -13,34 +19,41 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
  */
 
 public class TestBase {
-	
+
 	protected static LogReport log = new LogReport();
 	public static WebDriver driver;
-	 public Helper helper = new Helper();
-	 protected ValidationPage page=new ValidationPage();
-	
+	public static Helper helper = new Helper();
+	protected static ValidationPage page = new ValidationPage();
+	static WebElement element;
+	public static Actions action;
+	public static JavascriptExecutor js = (JavascriptExecutor) driver;
+	public static WebDriverWait wait;
+
 	// To open the browser.
-	public void openBrowser() throws Exception {
-		String browser = System.getProperty("BROWSERR");
-		if (browser == null) {
-			browser = System.getenv("BROWSERR");
+	@SuppressWarnings("unused")
+	public void startBrowser() throws Exception {
+		try {
+			String browser = System.getProperty("BROWSER");
 			if (browser == null) {
-				browser = "ie";
+				if (browser != null) {
+				} else {
+					throw new MyException(browser + "Not Launched");
+				}
 			}
-		}
-		switch (browser) {
-		case "chrome":
-			driver = new ChromeDriver();
-			break;
-		case "firefox":
-			driver = new FirefoxDriver();
-			break;
-		case "ie":
-			driver = new InternetExplorerDriver();
-			break;
-		default:
-			driver = new ChromeDriver();
-			break;
+			switch (browser) {
+			case "chrome":
+				driver = new ChromeDriver();
+				break;
+			case "firefox":
+				driver = new FirefoxDriver();
+				break;
+			case "ie":
+				driver = new InternetExplorerDriver();
+				break;
+			}
+			log.info(browser + " Launched");
+		} catch (MyException ex) {
+			log.error(ex.getMessage());
 		}
 		// Launch the application.
 		driver.get(ReadProperties.properties("url", Constants.CONFIG_PATH));

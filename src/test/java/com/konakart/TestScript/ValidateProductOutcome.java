@@ -1,16 +1,16 @@
 package com.konakart.TestScript;
 
+import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.konakart.Helper.Constants;
 import com.konakart.Helper.ExcelReader;
-import com.konakart.Helper.Helper;
 import com.konakart.Helper.ReadProperties;
 import com.konakart.Helper.TestBase;
 import com.konakart.Helper.Validation;
+import com.konakart.config.Constants;
 
 /**
  * Validate product outcome in both positive and negative cases. Data
@@ -21,20 +21,15 @@ import com.konakart.Helper.Validation;
  */
 
 public class ValidateProductOutcome extends TestBase {
-	TestBase base = new TestBase();
 
 	// This will open the browser
 	@BeforeTest
-	public void openBrowser() {
-		try {
-			base.openBrowser();
-			log.logReport("Browser Opening");
-		} catch (Exception e) {
-			log.logReport("Browser Not Opening");
-		}
+	public void openBrowser() throws Exception {
+		startBrowser();
 	}
 
-	// This will read positive test data from excel and pass value as parameter to validatePositiveOutcome.
+	// This will read positive test data from excel and pass value as parameter to
+	// validatePositiveOutcome.
 	@DataProvider
 	public Object[][] positiveValues() throws Exception {
 		Object data[][] = ExcelReader.ReadWriteExcel("positivesearchcase", Constants.EXCELTESTDATA_PATH);
@@ -53,7 +48,8 @@ public class ValidateProductOutcome extends TestBase {
 		Validation.validationAssertEquals(productTitle, product);
 	}
 
-	// This will read negative test data from excel and pass value as parameter to validateNegativeOutcome.
+	// This will read negative test data from excel and pass value as parameter to
+	// validateNegativeOutcome.
 	@DataProvider
 	public Object[][] negativeValues() throws Exception {
 		Object data[][] = ExcelReader.ReadWriteExcel("negativesearchcase", Constants.EXCELTESTDATA_PATH);
@@ -63,6 +59,8 @@ public class ValidateProductOutcome extends TestBase {
 	// This will validate product outcome in negative case
 	@Test(dataProvider = "negativeValues", priority = 1)
 	public void validateNegativeOutcome(String categories, String product) throws Exception {
+		action = new Actions(driver);
+
 		helper.selectByVisibleText(ReadProperties.properties("loc_categories_ddn", Constants.PRODUCTOUTCOME_PATH),
 				categories);
 		helper.sendKeys(ReadProperties.properties("loc_searchitem_txtbox", Constants.PRODUCTOUTCOME_PATH), product);
@@ -75,12 +73,7 @@ public class ValidateProductOutcome extends TestBase {
 	// This will close the browser
 	@AfterTest
 	public void closeBrowser() {
-		try {
-			base.closeBrowser();
-			log.logReport("Browser Closing");
-		} catch (Exception e) {
-			log.logReport("Browser Not Closing");
-		}
+		closeBrowser();
 	}
 
 }

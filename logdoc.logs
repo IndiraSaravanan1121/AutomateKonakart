@@ -1249,3 +1249,250 @@
 2019-10-15 20:03:27 INFO  LogRecordFilter - Expected and Actual value are Matched
 2019-10-15 20:03:27 INFO  LogRecordFilter - Description validated
 2019-10-15 20:03:29 INFO  LogRecordFilter - Browser Closing
+2019-10-16 10:55:17 INFO  LogRecordFilter - Browser Not Opening
+2019-10-16 10:55:18 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:18 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:19 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:19 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:19 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:19 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:20 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:20 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:20 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:20 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:21 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:21 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:21 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:21 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:22 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:22 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:22 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:22 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:23 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:23 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:23 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:23 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:24 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:24 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:24 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:24 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:25 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:25 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:25 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:26 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:26 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:26 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:26 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:27 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:27 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:27 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:27 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:28 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:28 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:28 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:29 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:29 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:29 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:30 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:30 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:30 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:31 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:31 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:32 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:32 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:32 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:33 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:33 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:34 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:34 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:34 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:35 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:35 INFO  LogRecordFilter - Value not sended
+2019-10-16 10:55:36 INFO  LogRecordFilter - Element not clicked
+2019-10-16 10:55:36 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:37 INFO  LogRecordFilter - Browser Closing
+2019-10-16 10:55:52 INFO  LogRecordFilter - Browser Opening
+2019-10-16 10:55:53 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:55:55 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:56 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:55:58 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:55:59 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:56:01 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:02 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:56:04 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:05 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:56:07 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:08 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:56:10 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:10 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 10:56:13 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:13 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:56:15 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:16 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:56:18 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:19 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:56:22 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:56:23 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:56:25 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:56:25 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:56:27 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:56:27 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:56:30 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:56:30 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 10:56:32 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:56:32 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:56:34 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:56:34 INFO  LogRecordFilter - Browser Closing
+2019-10-16 10:56:53 INFO  LogRecordFilter - Browser Opening
+2019-10-16 10:56:57 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:56:59 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:00 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:57:03 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:03 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:57:06 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:06 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:57:08 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:09 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:57:11 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:12 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:57:14 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:14 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 10:57:16 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:17 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:57:19 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:19 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:57:22 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:22 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:57:25 INFO  LogRecordFilter - Element Not Found
+2019-10-16 10:57:26 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 10:57:28 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:57:28 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:57:30 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:57:30 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 10:57:32 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:57:32 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 10:57:34 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:57:35 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 10:57:36 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 10:57:37 INFO  LogRecordFilter - Browser Closing
+2019-10-16 11:01:51 INFO  LogRecordFilter - Browser Opening
+2019-10-16 11:01:53 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:01:55 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:01:58 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:02:01 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:02:03 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:02:06 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:02:08 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 11:02:11 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:02:13 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:02:15 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:02:19 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:02:21 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:02:21 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:02:23 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:02:23 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:02:26 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:02:26 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 11:02:28 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:02:29 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:02:31 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:02:31 INFO  LogRecordFilter - Browser Closing
+2019-10-16 11:03:34 INFO  LogRecordFilter - Browser Opening
+2019-10-16 11:03:37 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:03:41 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:03:43 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:03:46 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:03:49 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:03:51 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:03:54 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 11:03:57 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:03:59 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:04:02 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:04:06 INFO  LogRecordFilter - Software is Clicked
+2019-10-16 11:04:07 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:04:08 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:04:09 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:04:10 INFO  LogRecordFilter - Electronics is Clicked
+2019-10-16 11:04:12 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:04:12 INFO  LogRecordFilter - Gifts is Clicked
+2019-10-16 11:04:14 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:04:14 INFO  LogRecordFilter - Computer Peripherals is Clicked
+2019-10-16 11:04:16 INFO  LogRecordFilter - Expected and Actual value are Matched
+2019-10-16 11:04:17 INFO  LogRecordFilter - Browser Closing
+2019-10-16 16:53:28 INFO  LogRecordFilter - Browser Not Opening
+2019-10-16 16:54:24 INFO  LogRecordFilter - Browser Not Opening
+2019-10-16 16:59:23 INFO  LogRecordFilter - Browser Launched
+2019-10-16 16:59:23 ERROR LogRecordFilter - Browser Not Launched
+2019-10-16 17:00:35 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:00:35 ERROR LogRecordFilter - Browser Not Launched
+2019-10-16 17:02:17 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:02:17 ERROR LogRecordFilter - Browser Not Launched
+2019-10-16 17:06:30 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:06:30 ERROR LogRecordFilter - Browser Not Launched
+2019-10-16 17:06:35 INFO  LogRecordFilter - [[ChromeDriver: chrome on XP (c99a0a244f9a9e59e999aed5d8c6d25a)] -> id: slideshow] is Clicked
+2019-10-16 17:06:35 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (c99a0a244f9a9e59e999aed5d8c6d25a)] -> id: slideshow] Not clicked
+2019-10-16 17:08:43 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:08:52 INFO  LogRecordFilter - [[ChromeDriver: chrome on XP (0f4a36689987e5d552b9f97155aa9360)] -> id: slideshow] is Clicked
+2019-10-16 17:08:52 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (0f4a36689987e5d552b9f97155aa9360)] -> id: slideshow] Not clicked
+2019-10-16 17:09:54 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:10:01 INFO  LogRecordFilter - id:slideshow is Clicked
+2019-10-16 17:10:01 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (6089eac9878c61c94c78953d33162df2)] -> id: slideshow] Not clicked
+2019-10-16 17:11:25 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:11:25 INFO  LogRecordFilter - [[ChromeDriver: chrome on XP (4d3daf31d3f0f2e386714e1869d33fcf)] -> id: slideshow] is Displayed
+2019-10-16 17:11:25 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (4d3daf31d3f0f2e386714e1869d33fcf)] -> id: slideshow] Not Dispalyed
+2019-10-16 17:14:03 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:14:03 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (9afcf9b6ae4153f5f2ed747257a43e9d)] -> id: slideshow] Not Dispalyed
+2019-10-16 17:18:35 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:18:35 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (82a48352280e1a9f98593695b0117725)] -> id: slideshow] Not Dispalyed
+2019-10-16 17:35:29 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (8595fbe8163c889423e528b68602cc83)] -> id: slideshow] Not Dispalyed
+2019-10-16 17:44:31 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (f300170036439b20b38319bcee56eb05)] -> id: slideshow] Not Dispalyed
+2019-10-16 17:45:55 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (eb6ac0095e56c1f40453642489216162)] -> id: slideshow] Not Dispalyed
+2019-10-16 17:48:10 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 17:49:33 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 17:50:53 INFO  LogRecordFilter - Browser Launched
+2019-10-16 17:50:54 INFO  LogRecordFilter - Element is Displayed
+2019-10-16 17:50:54 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 17:59:30 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:00:08 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:00:09 INFO  LogRecordFilter - Element is Displayed
+2019-10-16 18:00:09 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 18:04:45 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:04:46 INFO  LogRecordFilter - Element is Displayed
+2019-10-16 18:04:46 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 18:12:30 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:12:30 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 18:31:24 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:31:24 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 18:40:40 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:40:40 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 18:41:42 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:41:42 ERROR LogRecordFilter - Element not Displayed
+2019-10-16 18:43:54 INFO  LogRecordFilter - Browser Launched
+2019-10-16 18:56:12 INFO  LogRecordFilter - ie Launched
+2019-10-16 18:59:51 INFO  LogRecordFilter - ie Launched
+2019-10-16 19:02:07 INFO  LogRecordFilter - ie Launched
+2019-10-16 19:03:04 INFO  LogRecordFilter - ies Launched
+2019-10-16 19:51:37 INFO  LogRecordFilter - ies Launched
+2019-10-16 19:51:56 INFO  LogRecordFilter - id:slideshow is Clicked
+2019-10-16 19:51:56 ERROR LogRecordFilter - [[ChromeDriver: chrome on XP (6b758062356cfb60a020366f45696a95)] -> id: slideshow] Not clicked
+2019-10-16 19:53:39 INFO  LogRecordFilter - ies Launched
+2019-10-16 19:54:14 INFO  LogRecordFilter - ie Launched
+2019-10-16 19:54:19 INFO  LogRecordFilter - id:slideshow is Clicked
+2019-10-16 19:54:19 ERROR LogRecordFilter - [[InternetExplorerDriver: internet explorer on WINDOWS (42afe951-f3b6-428c-8f72-322e8f7a97ed)] -> id: slideshow] Not clicked
+2019-10-16 19:55:10 INFO  LogRecordFilter - ies Launched
+2019-10-16 19:57:44 INFO  LogRecordFilter - ies Launched
+2019-10-16 20:01:15 INFO  LogRecordFilter - null Launched
+2019-10-16 20:12:57 INFO  LogRecordFilter - null Launched
+2019-10-16 20:13:39 INFO  LogRecordFilter - ie Launched
+2019-10-16 20:13:48 INFO  LogRecordFilter - id:slideshow is Clicked
+2019-10-16 20:13:48 ERROR LogRecordFilter - [[InternetExplorerDriver: internet explorer on WINDOWS (ad5c0763-6945-4d0c-a0b0-5664003bfd50)] -> id: slideshow] Not clicked
+2019-10-16 20:14:22 INFO  LogRecordFilter - ies Launched
+2019-10-16 20:15:23 ERROR LogRecordFilter - nullNot Launched
+2019-10-16 20:16:01 INFO  LogRecordFilter - ies Launched
+2019-10-16 20:17:06 INFO  LogRecordFilter - ie Launched
+2019-10-16 20:17:15 INFO  LogRecordFilter - id:slideshow is Clicked
+2019-10-16 20:17:15 ERROR LogRecordFilter - [[InternetExplorerDriver: internet explorer on WINDOWS (24ed703f-a4f5-4c40-a968-175d105d1de6)] -> id: slideshow] Not clicked
+2019-10-16 20:17:42 ERROR LogRecordFilter - nullNot Launched
+2019-10-16 20:18:29 ERROR LogRecordFilter - nullNot Launched
+2019-10-16 20:19:07 ERROR LogRecordFilter - nullNot Launched
+2019-10-16 20:20:41 ERROR LogRecordFilter - nullNot Launched

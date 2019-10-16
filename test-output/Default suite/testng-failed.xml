@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.konakart.TestScript.ValidateProductDetails">
+      <class name="com.konakart.TestScript.saucelabs">
         <methods>
           <include name="openBrowser"/>
-          <include name="closeBrowser"/>
-          <include name="validateProductDetails" invocation-numbers="0"/>
+          <include name="saucelabs"/>
         </methods>
-      </class> <!-- com.konakart.TestScript.ValidateProductDetails -->
+      </class> <!-- com.konakart.TestScript.saucelabs -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
